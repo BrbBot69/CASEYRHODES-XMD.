@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "Caseyrhodes~rpxEjJqT#hAhpypLqQl-ZElGpjmgIXsIJJ7UGtd_cnTlA-un0DvA",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -29,7 +29,7 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/52dotx.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/w5v5sq.jpg",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || "!",
 // add your prifix for bot   
@@ -49,7 +49,7 @@ OWNER_NAME: process.env.OWNER_NAME || "♤𝗑ᴾᴿᴼ♧",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© POWERED BALLAS𝗑ᴾᴿᴼ*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/52dotx.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/w5v5sq.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Powered by *BALLAS𝗑ᴾᴿᴼ*⚡",
 // add alive msg here 
